@@ -1,0 +1,7 @@
+body {
+  background-color:pink;
+}
+
+.invalid {
+  border: solid red 1px;
+}
